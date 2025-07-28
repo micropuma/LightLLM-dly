@@ -74,6 +74,8 @@ tiktoken==0.7.0
 matplotlib==3.8.2
 psutil==5.9.4
 prometheus_client==0.20.0
+partial_json_parser
+interegular
 cchardet==2.1.7
 ujson==5.10.0
 frozendict==2.4.6
